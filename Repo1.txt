@@ -1,0 +1,22 @@
+class temporary
+{
+private: 
+	int x;
+	float y;
+public:
+	// Constructor
+	temporary(): x(5), y(5.5)
+	{
+		// Body of constructor
+	}
+	... ..  ...
+};
+
+int main()
+{
+	Temporary t1;
+	... .. ...
+}
+//Initial
+
+EOF
